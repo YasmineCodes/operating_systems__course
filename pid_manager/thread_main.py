@@ -7,6 +7,7 @@ start = time.perf_counter()  # To keep track of the time used to run this script
 
 # Create PID map for this script
 pids = PIDMap()
+output_file = open("threads_log_file.txt", 'w')
 
 
 def waiting_function(duration):
@@ -15,14 +16,21 @@ def waiting_function(duration):
 
     if x != -1:
         my_key = x[0]
-        print(f'Sleeping {duration} second(s)..., PID: {my_key}')
+        output_file.write(
+            f'Sleeping {duration} second(s)..., PID: {my_key} \n')
         time.sleep(duration)
         pids.release_pid(my_key)
-        return f'Done sleeping...for {duration} second(s), released PID: {my_key}'
+        output_file.write(f'Done sleeping...for {duration} second(s), released PID: {my_key} \n'
+                          )
 
 
 # List containing 100 random time durations in seconds between 1 and 60 seconds
 durations = [random.randint(1, 60) for _ in range(100)]
+
+# print max duration and sum of durations
+output_file.write(
+    f'The longest duration in these threads is {max(durations)} seconds. The sum of all thread durations is {sum(durations)} seconds. The threaded calls should take {max(durations)} secondss, rather than the sum of of the durations.\n')
+
 
 # List to store threads
 threads = []
@@ -39,4 +47,4 @@ for thread in threads:
 
 # Calc and print execution time of this script
 finish = time.perf_counter()
-print(f'Finished in {round(finish-start, 2)} second(s)')
+output_file.write(f'Finished in {round(finish-start, 2)} second(s) \n')
