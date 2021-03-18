@@ -1,7 +1,7 @@
 import random
 import threading
 import time
-from pid_map import PIDMap
+from pid_manager.pid_map import PIDMap
 
 start = time.perf_counter()  # To keep track of the time used to run this script
 
