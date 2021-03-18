@@ -24,6 +24,21 @@ def waiting_function(duration):
                           )
 
 
+def thread_runner(durations):
+    # List to store threads
+    threads = []
+
+    # loop through list with random durations creating a thread with each
+    for dur in durations:
+        t = threading.Thread(target=waiting_function, args=[dur])
+        t.start()
+        threads.append(t)
+
+    # Join threads so program doesn't conclue befor they're done
+    for thread in threads:
+        thread.join()
+
+
 # List containing 100 random time durations in seconds between 1 and 60 seconds
 durations = [random.randint(1, 60) for _ in range(100)]
 
@@ -31,19 +46,7 @@ durations = [random.randint(1, 60) for _ in range(100)]
 output_file.write(
     f'The longest duration in these threads is {max(durations)} seconds. The sum of all thread durations is {sum(durations)} seconds. The threaded calls should take {max(durations)} secondss, rather than the sum of of the durations.\n')
 
-
-# List to store threads
-threads = []
-
-# loop through list with random durations creating a thread with each
-for dur in durations:
-    t = threading.Thread(target=waiting_function, args=[dur])
-    t.start()
-    threads.append(t)
-
-# Join threads so program doesn't conclue befor they're done
-for thread in threads:
-    thread.join()
+thread_runner(durations)
 
 # Calc and print execution time of this script
 finish = time.perf_counter()

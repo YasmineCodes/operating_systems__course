@@ -1,202 +1,202 @@
-The longest duration in these threads is 60 seconds. The sum of all thread durations is 3055 seconds. The threaded calls should take 60 secondss, rather than the sum of of the durations.
-Sleeping 38 second(s)..., PID: 300 
-Sleeping 22 second(s)..., PID: 301 
-Sleeping 1 second(s)..., PID: 302 
-Sleeping 26 second(s)..., PID: 303 
-Sleeping 39 second(s)..., PID: 304 
-Sleeping 46 second(s)..., PID: 305 
-Sleeping 23 second(s)..., PID: 306 
-Sleeping 58 second(s)..., PID: 307 
-Sleeping 30 second(s)..., PID: 308 
-Sleeping 8 second(s)..., PID: 309 
-Sleeping 20 second(s)..., PID: 310 
-Sleeping 42 second(s)..., PID: 311 
-Sleeping 21 second(s)..., PID: 312 
-Sleeping 15 second(s)..., PID: 313 
-Sleeping 14 second(s)..., PID: 314 
-Sleeping 29 second(s)..., PID: 315 
-Sleeping 1 second(s)..., PID: 316 
-Sleeping 35 second(s)..., PID: 317 
-Sleeping 30 second(s)..., PID: 318 
-Sleeping 52 second(s)..., PID: 319 
-Sleeping 50 second(s)..., PID: 320 
-Sleeping 57 second(s)..., PID: 321 
-Sleeping 11 second(s)..., PID: 322 
-Sleeping 34 second(s)..., PID: 323 
-Sleeping 44 second(s)..., PID: 324 
-Sleeping 24 second(s)..., PID: 325 
-Sleeping 18 second(s)..., PID: 326 
-Sleeping 26 second(s)..., PID: 327 
-Sleeping 42 second(s)..., PID: 328 
-Sleeping 38 second(s)..., PID: 329 
-Sleeping 47 second(s)..., PID: 330 
-Sleeping 40 second(s)..., PID: 331 
-Sleeping 22 second(s)..., PID: 332 
-Sleeping 56 second(s)..., PID: 333 
-Sleeping 49 second(s)..., PID: 334 
-Sleeping 33 second(s)..., PID: 335 
-Sleeping 7 second(s)..., PID: 336 
-Sleeping 34 second(s)..., PID: 337 
-Sleeping 53 second(s)..., PID: 338 
-Sleeping 43 second(s)..., PID: 339 
-Sleeping 11 second(s)..., PID: 340 
-Sleeping 24 second(s)..., PID: 341 
-Sleeping 51 second(s)..., PID: 342 
-Sleeping 29 second(s)..., PID: 343 
-Sleeping 33 second(s)..., PID: 344 
-Sleeping 51 second(s)..., PID: 345 
-Sleeping 17 second(s)..., PID: 346 
-Sleeping 58 second(s)..., PID: 347 
-Sleeping 4 second(s)..., PID: 348 
-Sleeping 19 second(s)..., PID: 349 
-Sleeping 31 second(s)..., PID: 350 
-Sleeping 1 second(s)..., PID: 351 
-Sleeping 59 second(s)..., PID: 352 
-Sleeping 38 second(s)..., PID: 353 
-Sleeping 59 second(s)..., PID: 354 
-Sleeping 3 second(s)..., PID: 355 
-Sleeping 38 second(s)..., PID: 356 
-Sleeping 13 second(s)..., PID: 357 
-Sleeping 55 second(s)..., PID: 358 
-Sleeping 7 second(s)..., PID: 359 
-Sleeping 31 second(s)..., PID: 360 
-Sleeping 7 second(s)..., PID: 361 
-Sleeping 28 second(s)..., PID: 362 
-Sleeping 18 second(s)..., PID: 363 
-Sleeping 23 second(s)..., PID: 364 
-Sleeping 44 second(s)..., PID: 365 
-Sleeping 11 second(s)..., PID: 366 
-Sleeping 60 second(s)..., PID: 367 
-Sleeping 37 second(s)..., PID: 368 
-Sleeping 56 second(s)..., PID: 369 
-Sleeping 10 second(s)..., PID: 370 
-Sleeping 23 second(s)..., PID: 371 
-Sleeping 28 second(s)..., PID: 372 
-Sleeping 19 second(s)..., PID: 373 
-Sleeping 15 second(s)..., PID: 374 
-Sleeping 47 second(s)..., PID: 375 
-Sleeping 49 second(s)..., PID: 376 
-Sleeping 29 second(s)..., PID: 377 
-Sleeping 19 second(s)..., PID: 378 
-Sleeping 54 second(s)..., PID: 379 
-Sleeping 2 second(s)..., PID: 380 
-Sleeping 11 second(s)..., PID: 381 
-Sleeping 17 second(s)..., PID: 382 
-Sleeping 14 second(s)..., PID: 383 
-Sleeping 38 second(s)..., PID: 384 
-Sleeping 16 second(s)..., PID: 385 
-Sleeping 59 second(s)..., PID: 386 
-Sleeping 23 second(s)..., PID: 387 
-Sleeping 57 second(s)..., PID: 388 
-Sleeping 5 second(s)..., PID: 389 
-Sleeping 57 second(s)..., PID: 390 
-Sleeping 27 second(s)..., PID: 391 
-Sleeping 4 second(s)..., PID: 392 
-Sleeping 32 second(s)..., PID: 393 
+The longest duration in these threads is 60 seconds. The sum of all thread durations is 2800 seconds. The threaded calls should take 60 secondss, rather than the sum of of the durations.
+Sleeping 7 second(s)..., PID: 300 
+Sleeping 42 second(s)..., PID: 301 
+Sleeping 42 second(s)..., PID: 302 
+Sleeping 31 second(s)..., PID: 303 
+Sleeping 8 second(s)..., PID: 304 
+Sleeping 11 second(s)..., PID: 305 
+Sleeping 38 second(s)..., PID: 306 
+Sleeping 36 second(s)..., PID: 307 
+Sleeping 25 second(s)..., PID: 308 
+Sleeping 41 second(s)..., PID: 309 
+Sleeping 43 second(s)..., PID: 310 
+Sleeping 47 second(s)..., PID: 311 
+Sleeping 15 second(s)..., PID: 312 
+Sleeping 39 second(s)..., PID: 313 
+Sleeping 42 second(s)..., PID: 314 
+Sleeping 36 second(s)..., PID: 315 
+Sleeping 36 second(s)..., PID: 316 
+Sleeping 60 second(s)..., PID: 317 
+Sleeping 40 second(s)..., PID: 318 
+Sleeping 28 second(s)..., PID: 319 
+Sleeping 39 second(s)..., PID: 320 
+Sleeping 56 second(s)..., PID: 321 
+Sleeping 2 second(s)..., PID: 322 
+Sleeping 8 second(s)..., PID: 323 
+Sleeping 3 second(s)..., PID: 324 
+Sleeping 2 second(s)..., PID: 325 
+Sleeping 39 second(s)..., PID: 326 
+Sleeping 2 second(s)..., PID: 327 
+Sleeping 20 second(s)..., PID: 328 
+Sleeping 43 second(s)..., PID: 329 
+Sleeping 2 second(s)..., PID: 330 
+Sleeping 22 second(s)..., PID: 331 
+Sleeping 6 second(s)..., PID: 332 
+Sleeping 11 second(s)..., PID: 333 
+Sleeping 45 second(s)..., PID: 334 
+Sleeping 47 second(s)..., PID: 335 
+Sleeping 52 second(s)..., PID: 336 
+Sleeping 15 second(s)..., PID: 337 
+Sleeping 33 second(s)..., PID: 338 
+Sleeping 55 second(s)..., PID: 339 
+Sleeping 60 second(s)..., PID: 340 
+Sleeping 10 second(s)..., PID: 341 
+Sleeping 10 second(s)..., PID: 342 
+Sleeping 1 second(s)..., PID: 343 
+Sleeping 5 second(s)..., PID: 344 
+Sleeping 15 second(s)..., PID: 345 
+Sleeping 18 second(s)..., PID: 346 
+Sleeping 27 second(s)..., PID: 347 
+Sleeping 53 second(s)..., PID: 348 
+Sleeping 29 second(s)..., PID: 349 
+Sleeping 17 second(s)..., PID: 350 
+Sleeping 34 second(s)..., PID: 351 
+Sleeping 34 second(s)..., PID: 352 
+Sleeping 8 second(s)..., PID: 353 
+Sleeping 30 second(s)..., PID: 354 
+Sleeping 7 second(s)..., PID: 355 
+Sleeping 41 second(s)..., PID: 356 
+Sleeping 20 second(s)..., PID: 357 
+Sleeping 25 second(s)..., PID: 358 
+Sleeping 22 second(s)..., PID: 359 
+Sleeping 55 second(s)..., PID: 360 
+Sleeping 2 second(s)..., PID: 361 
+Sleeping 30 second(s)..., PID: 362 
+Sleeping 35 second(s)..., PID: 363 
+Sleeping 39 second(s)..., PID: 364 
+Sleeping 48 second(s)..., PID: 365 
+Sleeping 57 second(s)..., PID: 366 
+Sleeping 15 second(s)..., PID: 367 
+Sleeping 39 second(s)..., PID: 368 
+Sleeping 53 second(s)..., PID: 369 
+Sleeping 53 second(s)..., PID: 370 
+Sleeping 29 second(s)..., PID: 371 
+Sleeping 22 second(s)..., PID: 372 
+Sleeping 50 second(s)..., PID: 373 
+Sleeping 35 second(s)..., PID: 374 
+Sleeping 24 second(s)..., PID: 375 
+Sleeping 27 second(s)..., PID: 376 
+Sleeping 12 second(s)..., PID: 377 
+Sleeping 47 second(s)..., PID: 378 
+Sleeping 35 second(s)..., PID: 379 
+Sleeping 34 second(s)..., PID: 380 
+Sleeping 18 second(s)..., PID: 381 
+Sleeping 9 second(s)..., PID: 382 
+Sleeping 33 second(s)..., PID: 383 
+Sleeping 29 second(s)..., PID: 384 
+Sleeping 32 second(s)..., PID: 385 
+Sleeping 1 second(s)..., PID: 386 
+Sleeping 33 second(s)..., PID: 387 
+Sleeping 3 second(s)..., PID: 388 
+Sleeping 8 second(s)..., PID: 389 
+Sleeping 7 second(s)..., PID: 390 
+Sleeping 23 second(s)..., PID: 391 
+Sleeping 30 second(s)..., PID: 392 
+Sleeping 53 second(s)..., PID: 393 
 Sleeping 30 second(s)..., PID: 394 
-Sleeping 4 second(s)..., PID: 395 
-Sleeping 43 second(s)..., PID: 396 
-Sleeping 22 second(s)..., PID: 397 
-Sleeping 60 second(s)..., PID: 398 
-Sleeping 47 second(s)..., PID: 399 
-Done sleeping...for 1 second(s), released PID: 302 
-Done sleeping...for 1 second(s), released PID: 316 
-Done sleeping...for 1 second(s), released PID: 351 
-Done sleeping...for 2 second(s), released PID: 380 
-Done sleeping...for 3 second(s), released PID: 355 
-Done sleeping...for 4 second(s), released PID: 348 
-Done sleeping...for 4 second(s), released PID: 392 
-Done sleeping...for 4 second(s), released PID: 395 
-Done sleeping...for 5 second(s), released PID: 389 
-Done sleeping...for 7 second(s), released PID: 336 
-Done sleeping...for 7 second(s), released PID: 361 
-Done sleeping...for 7 second(s), released PID: 359 
-Done sleeping...for 8 second(s), released PID: 309 
-Done sleeping...for 10 second(s), released PID: 370 
-Done sleeping...for 11 second(s), released PID: 322 
-Done sleeping...for 11 second(s), released PID: 340 
-Done sleeping...for 11 second(s), released PID: 366 
-Done sleeping...for 11 second(s), released PID: 381 
-Done sleeping...for 13 second(s), released PID: 357 
-Done sleeping...for 14 second(s), released PID: 314 
-Done sleeping...for 14 second(s), released PID: 383 
-Done sleeping...for 15 second(s), released PID: 313 
-Done sleeping...for 15 second(s), released PID: 374 
-Done sleeping...for 16 second(s), released PID: 385 
-Done sleeping...for 17 second(s), released PID: 346 
-Done sleeping...for 17 second(s), released PID: 382 
-Done sleeping...for 18 second(s), released PID: 363 
-Done sleeping...for 18 second(s), released PID: 326 
-Done sleeping...for 19 second(s), released PID: 349 
-Done sleeping...for 19 second(s), released PID: 378 
-Done sleeping...for 19 second(s), released PID: 373 
-Done sleeping...for 20 second(s), released PID: 310 
-Done sleeping...for 21 second(s), released PID: 312 
-Done sleeping...for 22 second(s), released PID: 301 
-Done sleeping...for 22 second(s), released PID: 332 
-Done sleeping...for 22 second(s), released PID: 397 
-Done sleeping...for 23 second(s), released PID: 371 
-Done sleeping...for 23 second(s), released PID: 306 
-Done sleeping...for 23 second(s), released PID: 364 
-Done sleeping...for 23 second(s), released PID: 387 
-Done sleeping...for 24 second(s), released PID: 341 
-Done sleeping...for 24 second(s), released PID: 325 
-Done sleeping...for 26 second(s), released PID: 327 
-Done sleeping...for 26 second(s), released PID: 303 
-Done sleeping...for 27 second(s), released PID: 391 
-Done sleeping...for 28 second(s), released PID: 372 
-Done sleeping...for 28 second(s), released PID: 362 
-Done sleeping...for 29 second(s), released PID: 377 
-Done sleeping...for 29 second(s), released PID: 315 
-Done sleeping...for 29 second(s), released PID: 343 
-Done sleeping...for 30 second(s), released PID: 308 
-Done sleeping...for 30 second(s), released PID: 318 
+Sleeping 29 second(s)..., PID: 395 
+Sleeping 36 second(s)..., PID: 396 
+Sleeping 12 second(s)..., PID: 397 
+Sleeping 25 second(s)..., PID: 398 
+Sleeping 13 second(s)..., PID: 399 
+Done sleeping...for 1 second(s), released PID: 343 
+Done sleeping...for 1 second(s), released PID: 386 
+Done sleeping...for 2 second(s), released PID: 325 
+Done sleeping...for 2 second(s), released PID: 322 
+Done sleeping...for 2 second(s), released PID: 327 
+Done sleeping...for 2 second(s), released PID: 330 
+Done sleeping...for 2 second(s), released PID: 361 
+Done sleeping...for 3 second(s), released PID: 324 
+Done sleeping...for 3 second(s), released PID: 388 
+Done sleeping...for 5 second(s), released PID: 344 
+Done sleeping...for 6 second(s), released PID: 332 
+Done sleeping...for 7 second(s), released PID: 300 
+Done sleeping...for 7 second(s), released PID: 390 
+Done sleeping...for 7 second(s), released PID: 355 
+Done sleeping...for 8 second(s), released PID: 323 
+Done sleeping...for 8 second(s), released PID: 304 
+Done sleeping...for 8 second(s), released PID: 353 
+Done sleeping...for 8 second(s), released PID: 389 
+Done sleeping...for 9 second(s), released PID: 382 
+Done sleeping...for 10 second(s), released PID: 342 
+Done sleeping...for 10 second(s), released PID: 341 
+Done sleeping...for 11 second(s), released PID: 305 
+Done sleeping...for 11 second(s), released PID: 333 
+Done sleeping...for 12 second(s), released PID: 377 
+Done sleeping...for 12 second(s), released PID: 397 
+Done sleeping...for 13 second(s), released PID: 399 
+Done sleeping...for 15 second(s), released PID: 312 
+Done sleeping...for 15 second(s), released PID: 337 
+Done sleeping...for 15 second(s), released PID: 345 
+Done sleeping...for 15 second(s), released PID: 367 
+Done sleeping...for 17 second(s), released PID: 350 
+Done sleeping...for 18 second(s), released PID: 346 
+Done sleeping...for 18 second(s), released PID: 381 
+Done sleeping...for 20 second(s), released PID: 357 
+Done sleeping...for 20 second(s), released PID: 328 
+Done sleeping...for 22 second(s), released PID: 331 
+Done sleeping...for 22 second(s), released PID: 359 
+Done sleeping...for 22 second(s), released PID: 372 
+Done sleeping...for 23 second(s), released PID: 391 
+Done sleeping...for 24 second(s), released PID: 375 
+Done sleeping...for 25 second(s), released PID: 308 
+Done sleeping...for 25 second(s), released PID: 358 
+Done sleeping...for 25 second(s), released PID: 398 
+Done sleeping...for 27 second(s), released PID: 347 
+Done sleeping...for 27 second(s), released PID: 376 
+Done sleeping...for 28 second(s), released PID: 319 
+Done sleeping...for 29 second(s), released PID: 349 
+Done sleeping...for 29 second(s), released PID: 371 
+Done sleeping...for 29 second(s), released PID: 384 
+Done sleeping...for 29 second(s), released PID: 395 
+Done sleeping...for 30 second(s), released PID: 362 
+Done sleeping...for 30 second(s), released PID: 354 
+Done sleeping...for 30 second(s), released PID: 392 
 Done sleeping...for 30 second(s), released PID: 394 
-Done sleeping...for 31 second(s), released PID: 350 
-Done sleeping...for 31 second(s), released PID: 360 
-Done sleeping...for 32 second(s), released PID: 393 
-Done sleeping...for 33 second(s), released PID: 335 
-Done sleeping...for 33 second(s), released PID: 344 
-Done sleeping...for 34 second(s), released PID: 337 
-Done sleeping...for 34 second(s), released PID: 323 
-Done sleeping...for 35 second(s), released PID: 317 
-Done sleeping...for 37 second(s), released PID: 368 
-Done sleeping...for 38 second(s), released PID: 300 
-Done sleeping...for 38 second(s), released PID: 329 
-Done sleeping...for 38 second(s), released PID: 353 
-Done sleeping...for 38 second(s), released PID: 356 
-Done sleeping...for 38 second(s), released PID: 384 
-Done sleeping...for 39 second(s), released PID: 304 
-Done sleeping...for 40 second(s), released PID: 331 
-Done sleeping...for 42 second(s), released PID: 311 
-Done sleeping...for 42 second(s), released PID: 328 
-Done sleeping...for 43 second(s), released PID: 339 
-Done sleeping...for 43 second(s), released PID: 396 
-Done sleeping...for 44 second(s), released PID: 324 
-Done sleeping...for 44 second(s), released PID: 365 
-Done sleeping...for 46 second(s), released PID: 305 
-Done sleeping...for 47 second(s), released PID: 375 
-Done sleeping...for 47 second(s), released PID: 330 
-Done sleeping...for 47 second(s), released PID: 399 
-Done sleeping...for 49 second(s), released PID: 334 
-Done sleeping...for 49 second(s), released PID: 376 
-Done sleeping...for 50 second(s), released PID: 320 
-Done sleeping...for 51 second(s), released PID: 342 
-Done sleeping...for 51 second(s), released PID: 345 
-Done sleeping...for 52 second(s), released PID: 319 
-Done sleeping...for 53 second(s), released PID: 338 
-Done sleeping...for 54 second(s), released PID: 379 
-Done sleeping...for 55 second(s), released PID: 358 
-Done sleeping...for 56 second(s), released PID: 333 
-Done sleeping...for 56 second(s), released PID: 369 
-Done sleeping...for 57 second(s), released PID: 321 
-Done sleeping...for 57 second(s), released PID: 390 
-Done sleeping...for 57 second(s), released PID: 388 
-Done sleeping...for 58 second(s), released PID: 307 
-Done sleeping...for 58 second(s), released PID: 347 
-Done sleeping...for 59 second(s), released PID: 386 
-Done sleeping...for 59 second(s), released PID: 352 
-Done sleeping...for 59 second(s), released PID: 354 
-Done sleeping...for 60 second(s), released PID: 367 
-Done sleeping...for 60 second(s), released PID: 398 
-Finished in 60.07 second(s) 
+Done sleeping...for 31 second(s), released PID: 303 
+Done sleeping...for 32 second(s), released PID: 385 
+Done sleeping...for 33 second(s), released PID: 338 
+Done sleeping...for 33 second(s), released PID: 383 
+Done sleeping...for 33 second(s), released PID: 387 
+Done sleeping...for 34 second(s), released PID: 352 
+Done sleeping...for 34 second(s), released PID: 351 
+Done sleeping...for 34 second(s), released PID: 380 
+Done sleeping...for 35 second(s), released PID: 363 
+Done sleeping...for 35 second(s), released PID: 374 
+Done sleeping...for 35 second(s), released PID: 379 
+Done sleeping...for 36 second(s), released PID: 307 
+Done sleeping...for 36 second(s), released PID: 315 
+Done sleeping...for 36 second(s), released PID: 316 
+Done sleeping...for 36 second(s), released PID: 396 
+Done sleeping...for 38 second(s), released PID: 306 
+Done sleeping...for 39 second(s), released PID: 320 
+Done sleeping...for 39 second(s), released PID: 364 
+Done sleeping...for 39 second(s), released PID: 313 
+Done sleeping...for 39 second(s), released PID: 326 
+Done sleeping...for 39 second(s), released PID: 368 
+Done sleeping...for 40 second(s), released PID: 318 
+Done sleeping...for 41 second(s), released PID: 309 
+Done sleeping...for 41 second(s), released PID: 356 
+Done sleeping...for 42 second(s), released PID: 302 
+Done sleeping...for 42 second(s), released PID: 301 
+Done sleeping...for 42 second(s), released PID: 314 
+Done sleeping...for 43 second(s), released PID: 329 
+Done sleeping...for 43 second(s), released PID: 310 
+Done sleeping...for 45 second(s), released PID: 334 
+Done sleeping...for 47 second(s), released PID: 335 
+Done sleeping...for 47 second(s), released PID: 311 
+Done sleeping...for 47 second(s), released PID: 378 
+Done sleeping...for 48 second(s), released PID: 365 
+Done sleeping...for 50 second(s), released PID: 373 
+Done sleeping...for 52 second(s), released PID: 336 
+Done sleeping...for 53 second(s), released PID: 348 
+Done sleeping...for 53 second(s), released PID: 370 
+Done sleeping...for 53 second(s), released PID: 393 
+Done sleeping...for 53 second(s), released PID: 369 
+Done sleeping...for 55 second(s), released PID: 339 
+Done sleeping...for 55 second(s), released PID: 360 
+Done sleeping...for 56 second(s), released PID: 321 
+Done sleeping...for 57 second(s), released PID: 366 
+Done sleeping...for 60 second(s), released PID: 317 
+Done sleeping...for 60 second(s), released PID: 340 
+Finished in 60.06 second(s) 
