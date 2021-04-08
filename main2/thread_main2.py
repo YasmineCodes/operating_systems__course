@@ -1,17 +1,22 @@
-import random
-import threading
+
+import sys
 import time
-from pid_manager.pid_map import PIDMap
+from threading import Thread, Lock
+
+import random
+from pid_manager2.pid_map2 import PIDMap
 
 start = time.perf_counter()  # To keep track of the time used to run this script
 
 # Create PID map for this script
 pids = PIDMap()
-output_file = open("./threads_log_file.txt", 'w')
-
+output_file = open("main2/threads_log_file2.txt", 'w')
 
 def waiting_function(duration):
     '''Function that waits the given number of seconds'''
+    # acquire mutex lock
+
+    # allocate PID
     x = pids.allocate_pid()
 
     if x != -1:
@@ -19,6 +24,7 @@ def waiting_function(duration):
         output_file.write(
             f'Sleeping {duration} second(s)..., PID: {my_key} \n')
         time.sleep(duration)
+        # Release PID
         pids.release_pid(my_key)
         output_file.write(f'Done sleeping...for {duration} second(s), released PID: {my_key} \n'
                           )
@@ -30,7 +36,8 @@ def thread_runner(durations):
 
     # loop through list with random durations creating a thread with each
     for dur in durations:
-        t = threading.Thread(target=waiting_function, args=[dur])
+        # Pass Mutex lock as well as the duration to waiting_function
+        t = Thread(target=waiting_function, args=[dur])
         t.start()
         threads.append(t)
 
