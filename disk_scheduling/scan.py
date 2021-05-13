@@ -1,6 +1,6 @@
 """This module implements the scan disk-scheduling algorithm.
     """
-TRACKS = range(200)
+TRACKS = range(5000)
 
 
 def scan(q, direction, head=100):

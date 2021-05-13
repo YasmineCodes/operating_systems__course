@@ -1,0 +1,3 @@
+FCFS Algorithm: Total head movement of 90216 cylinders. 
+SSTF Algorithm: Total head movement of 4606 cylinders. 
+Scan algorithm: Total head movement of 9798 cylinders 
